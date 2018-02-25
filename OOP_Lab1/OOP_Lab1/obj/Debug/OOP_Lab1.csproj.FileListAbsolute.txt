@@ -1,0 +1,10 @@
+D:\Учёба\OOP\OOP_Lab1\OOP_Lab1\bin\Debug\OOP_Lab1.exe.config
+D:\Учёба\OOP\OOP_Lab1\OOP_Lab1\bin\Debug\OOP_Lab1.exe
+D:\Учёба\OOP\OOP_Lab1\OOP_Lab1\bin\Debug\OOP_Lab1.pdb
+D:\Учёба\OOP\OOP_Lab1\OOP_Lab1\obj\Debug\OOP_Lab1.csprojResolveAssemblyReference.cache
+D:\Учёба\OOP\OOP_Lab1\OOP_Lab1\obj\Debug\OOP_Lab1.Form1.resources
+D:\Учёба\OOP\OOP_Lab1\OOP_Lab1\obj\Debug\OOP_Lab1.Properties.Resources.resources
+D:\Учёба\OOP\OOP_Lab1\OOP_Lab1\obj\Debug\OOP_Lab1.csproj.GenerateResource.Cache
+D:\Учёба\OOP\OOP_Lab1\OOP_Lab1\obj\Debug\OOP_Lab1.csproj.CoreCompileInputs.cache
+D:\Учёба\OOP\OOP_Lab1\OOP_Lab1\obj\Debug\OOP_Lab1.exe
+D:\Учёба\OOP\OOP_Lab1\OOP_Lab1\obj\Debug\OOP_Lab1.pdb
